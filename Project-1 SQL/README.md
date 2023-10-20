@@ -1,17 +1,16 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+09-04-2023
 
 ### Project Title
-Replace the Project Title
+Investigate a Relational Database
 
 ### Description
-Describe what your project is about and what it does
+This project explores a database for a fictional movie rental company. SQL queries are used to answer questions such as most popular movies, rental durations and store performance
 
 ### Files used
-Include the files used
+1. dvd-rental-erd-2: contains the ERD for the project
+2. queries.txt: contains the queries
+3. SQL Project report: The insights
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[PostgreSQL documentation.](https://www.postgresql.org/docs/12/index.html)
